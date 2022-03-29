@@ -1,6 +1,6 @@
 # Master Thesis
 
-In the context of the [Vortanz](https://vortanz.ai/#/de) project, video-based HAR was applied to the [BAST](https://bast.neuroges-bast.info/) analysis.
+In the context of the [Vortanz](https://vortanz.ai/#/de) project, video-based Human Action Recognition (HAR) was applied to the [BAST](https://bast.neuroges-bast.info/) analysis. BAST is a system for analyzing whole body movement in space and their relations to specific mental functions.
 
 The five main research questions that this work tackles:
 
@@ -30,19 +30,6 @@ It is a part of the [OpenMMLab](http://openmmlab.org/) project. The master branc
     <p style="font-size:1.5vw;">GradCAM results on SlowOnly trained without background</p>
   </div>
 </div>
-
-### Getting started with MMaction2
-
-[getting_started.md](docs/getting_started.md) shows the basic usage of MMAction2.
-There are also tutorials:
-
-- [learn about configs](docs/tutorials/1_config.md)
-- [finetuning models](docs/tutorials/2_finetune.md)
-- [adding new dataset](docs/tutorials/3_new_dataset.md)
-- [designing data pipeline](docs/tutorials/4_data_pipeline.md)
-- [adding new modules](docs/tutorials/5_new_modules.md)
-- [exporting model to onnx](docs/tutorials/6_export_model.md)
-- [customizing runtime settings](docs/tutorials/7_customize_runtime.md)
 
 
 #### References
