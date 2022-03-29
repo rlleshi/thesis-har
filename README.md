@@ -32,7 +32,7 @@ It is a part of the [OpenMMLab](http://openmmlab.org/) project. The master branc
 </div>
 
 
-#### References
+### Technical References
 
 ```BibTeX
 @misc{2020mmaction2,
